@@ -58,20 +58,28 @@ Levamos sua privacidade a sério. O design do Go Task é baseado em um princípi
 <div align="center">
 <table>
   <tr>
-    <td align="center"><strong>Tema Claro</strong></td>
-    <td align="center"><strong>Tema Escuro</strong></td>
+    <td align="center"><strong>Tela Inicial (Light)</strong></td>
+    <td align="center"><strong>Tela Inicial (Dark)</strong></td>
   </tr>
   <tr>
-    <td><img src="URL_DO_SEU_SCREENSHOT_TEMA_CLARO" alt="Tela Principal com Tema Claro" width="250px" /></td>
-    <td><img src="URL_DO_SEU_SCREENSHOT_TEMA_ESCURO" alt="Tela Principal com Tema Escuro" width="250px" /></td>
+    <td><img src="https://github.com/user-attachments/assets/2867c0bd-cf1a-4767-a1de-63f5495f84f5" alt="Tela Principal com Tema Claro" width="250px" /></td>
+    <td><img src="https://github.com/user-attachments/assets/a7e4a8ef-ba21-42d0-bcf0-9bd9a179ca9e" alt="Tela Principal com Tema Escuro" width="250px" /></td>
   </tr>
   <tr>
+    <td align="center"><strong>Calendário</strong></td>
     <td align="center"><strong>Modal de Edição</strong></td>
-    <td align="center"><strong>Exportação para PDF</strong></td>
   </tr>
   <tr>
-    <td><img src="URL_DO_SEU_SCREENSHOT_MODAL_EDICAO" alt="Modal de Edição de Tarefa" width="250px" /></td>
-    <td><img src="URL_DO_SEU_SCREENSHOT_PDF" alt="Exemplo de PDF exportado" width="250px" /></td>
+    <td><img src="https://github.com/user-attachments/assets/d75fd42c-256e-434f-98de-58e3143ad6b2" alt="Calendário Semanal com Tema Claro" width="250px" /></td>
+    <td><img src="https://github.com/user-attachments/assets/916b8975-be40-49a6-b8f5-814e5167f984" alt="Modal de Edição de Tarefa em Tema Escuro" width="250px" /></td>
+  </tr>
+    <tr>
+    <td align="center"><strong>Configurações</strong></td>
+    <td align="center"><strong>Tutorial de Boas-Vindas</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c545eafd-ead2-4888-8259-d0c9b85792f9" alt="Tela de Configurações em Tema Claro" width="250px" /></td>
+    <td><img src="https://github.com/user-attachments/assets/08a20f32-fdd9-4098-bdce-8e2b71b2229c" alt="Tela do Tutorial do App" width="250px" /></td>
   </tr>
 </table>
 </div>
