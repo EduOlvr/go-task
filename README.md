@@ -1,7 +1,7 @@
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://github.com/user-attachments/assets/f669fcc8-db9c-4959-8bdc-aa7e4fb64572" alt="Logo Go Task" width="90px" />
-    <h1 style="margin-left: 15px;">Go Task</h1>
+    <h1 style="margin-left: 15px;">Go Task!</h1>
   </div>
   <p>
     <strong>Organize sua semana, simplifique sua vida. O planejador de tarefas focado em resultados.</strong>
@@ -28,13 +28,13 @@
   </table>
 </div>
 
-## 🎯 Sobre o Aplicativo
+## Sobre o Aplicativo
 
 Go Task é um aplicativo de gerenciamento de tarefas projetado para quem busca clareza e foco. Com uma interface intuitiva centrada na sua semana, ele ajuda você a visualizar, planejar e executar suas metas sem complicações.
 
 Criado para ser rápido, confiável e, acima de tudo, respeitar sua privacidade, o Go Task funciona inteiramente offline. Seus dados são seus e permanecem no seu dispositivo, sempre.
 
-## ✨ Funcionalidades Principais
+## Funcionalidades Principais
 
 * **📅 Visualização Semanal:** Tenha uma visão clara e organizada das suas tarefas para os próximos 7 dias.
 * **👆 Arrastar e Soltar:** Reorganize suas prioridades de forma fluida e natural.
@@ -45,7 +45,7 @@ Criado para ser rápido, confiável e, acima de tudo, respeitar sua privacidade,
 * **🌍 Multilíngue:** Disponível em Português e Inglês.
 * **💡 Tutorial Interativo:** Comece a usar o app em segundos com um guia rápido e visual.
 
-## 🔒 Privacidade em Primeiro Lugar
+## Privacidade em Primeiro Lugar
 
 Levamos sua privacidade a sério. O design do Go Task é baseado em um princípio fundamental: seus dados são exclusivamente seus.
 
@@ -53,7 +53,7 @@ Levamos sua privacidade a sério. O design do Go Task é baseado em um princípi
 * **Sem Coleta de Dados:** Seus dados nunca saem do seu celular. Não usamos servidores e não coletamos nenhuma informação pessoal.
 * **Sem Anúncios, Sem Rastreadores:** Sua experiência é limpa e focada apenas na sua produtividade.
 
-## 📱 Telas do App
+## Telas do App
 
 <div align="center">
 <table>
@@ -77,7 +77,7 @@ Levamos sua privacidade a sério. O design do Go Task é baseado em um princípi
 </div>
 
 
-## 🗺️ Próximos Passos
+## Próximos Passos
 
 O Go Task está em constante evolução. Aqui estão algumas das funcionalidades planejadas para o futuro:
 
@@ -88,7 +88,7 @@ O Go Task está em constante evolução. Aqui estão algumas das funcionalidades
 ## 💬 Contato e Suporte
 
 Para dúvidas, sugestões ou suporte técnico, por favor, entre em contato através do e-mail:
-**[seu.email.profissional@exemplo.com](mailto:seu.email.profissional@exemplo.com)**
+**[seu.email.profissional@exemplo.com](mailto:eduardo.gomes@aluno.ufca.edu.br)**
 
 ---
 
