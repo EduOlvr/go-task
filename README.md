@@ -96,7 +96,7 @@ O Go Task está em constante evolução. Aqui estão algumas das funcionalidades
 ## 💬 Contato e Suporte
 
 Para dúvidas, sugestões ou suporte técnico, por favor, entre em contato através do e-mail:
-**[seu.email.profissional@exemplo.com](mailto:eduardo.gomes@aluno.ufca.edu.br)**
+**[eduardo.gomes@aluno.ufca.edu.br](mailto:eduardo.gomes@aluno.ufca.edu.br)**
 
 ---
 
