@@ -62,7 +62,7 @@ Levamos sua privacidade a sério. O design do Go Task é baseado em um princípi
     <td align="center"><strong>Tela Inicial (Escuro)</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/2867c0bd-cf1a-4767-a1de-63f5495f84f5" alt="Tela Principal com Tema Claro" width="200px" height="400px" /></td>
+    <td><img src="https://github.com/user-attachments/assets/2867c0bd-cf1a-4767-a1de-63f5495f84f5" alt="Tela Principal com Tema Claro" width="150px" height="300px" /></td>
     <td><img src="https://github.com/user-attachments/assets/a7e4a8ef-ba21-42d0-bcf0-9bd9a179ca9e" alt="Tela Principal com Tema Escuro" width="200px" height="400px" /></td>
   </tr>
   <tr>
