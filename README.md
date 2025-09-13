@@ -66,15 +66,15 @@ Levamos sua privacidade a sério. O design do Go Task é baseado em um princípi
     <td><img src="https://github.com/user-attachments/assets/a7e4a8ef-ba21-42d0-bcf0-9bd9a179ca9e" alt="Tela Principal com Tema Escuro" width="250px" height="500px" /></td>
   </tr>
   <tr>
-    <td align="center"><strong>Visualização Semanal (Claro)</strong></td>
-    <td align="center"><strong>Modal de Edição (Escuro)</strong></td>
+    <td align="center"><strong>Calendário</strong></td>
+    <td align="center"><strong>Modal de Edição</strong></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/d75fd42c-256e-434f-98de-58e3143ad6b2" alt="Calendário Semanal com Tema Claro" width="250px" height="500px" /></td>
     <td><img src="https://github.com/user-attachments/assets/916b8975-be40-49a6-b8f5-814e5167f984" alt="Modal de Edição de Tarefa em Tema Escuro" width="250px" height="500px" /></td>
   </tr>
     <tr>
-    <td align="center"><strong>Configurações (Claro)</strong></td>
+    <td align="center"><strong>Configurações</strong></td>
     <td align="center"><strong>Tutorial de Boas-Vindas</strong></td>
   </tr>
   <tr>
