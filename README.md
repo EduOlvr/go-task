@@ -28,6 +28,9 @@
   </table>
 </div>
 
+## Vídeo Explicativo
+[Assista ao vídeo de Apresentação do App no YouTube](https://youtu.be/btnbu9DNaL0)
+
 ## Sobre o Aplicativo
 
 Go Task é um aplicativo de gerenciamento de tarefas projetado para quem busca clareza e foco. Com uma interface intuitiva centrada na sua semana, ele ajuda você a visualizar, planejar e executar suas metas sem complicações.
